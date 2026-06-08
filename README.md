@@ -41,4 +41,4 @@ A RAG (Retrieval Augmented Generation) chatbot that lets you upload any PDF and 
 ```
 
 ## 👨‍💻 Author
-Built by Ahsan — BS Artificial Intelligence, 4th Semester
+Built by Mahnoor Sajjad and Hijab Fatima — BS Artificial Intelligence, 4th Semester
